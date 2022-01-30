@@ -7,10 +7,15 @@ body {
 }
 
 .quem-somos {
-  background-color: #8181F7;
+  background-color: #F49206;
   color: white;
 }
 
 .margin {
   padding-bottom: 50px;
+}
+
+.bg-footer {
+  background-color: #15A9EB;
+  color: white;
 }
